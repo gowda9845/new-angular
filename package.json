@@ -1,14 +1,15 @@
 {
-  "name": "my-app",
+  "name": "my-appy",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
+    "build-prod": "ng build--prod",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
-  "private": true,
+  "private": trugit push e,
   "dependencies": {
     "@angular/animations": "~12.1.1",
     "@angular/common": "~12.1.1",
