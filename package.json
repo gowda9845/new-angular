@@ -9,7 +9,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
-  "private": trugit push e,
+  "private": true,
   "dependencies": {
     "@angular/animations": "~12.1.1",
     "@angular/common": "~12.1.1",
